@@ -16,3 +16,15 @@ img {
   display: block;
   max-width: 100%;
 }
+input {
+  width: 250px;
+  height: 25px;
+}
+.timer {
+  display: flex;
+  gap: 10px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+}
